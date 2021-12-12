@@ -1,3 +1,10 @@
-#Atividade de Mineração de Dados usando o Dataset de Pokemon
+# Mineração de Dados - UEMG Divinópolis
 
-https://www.kaggle.com/maca11/all-pokemon-dataset
+## _Dataset Pokemon_
+
+## Pré-processamentos e geração de gráficos
+
+- Quantidades de Pokemons lendários
+- Tipos existentes de Pokemons
+
+Geovane Tadeu do Carmo
